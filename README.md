@@ -2,6 +2,7 @@
 A lightweight, easy to use framework designed to create a better Developer Experience, enhancing code usability, building speed and less code writting, creating happy developers.
 
 # Ubit DX includes:
+* A smart mobile-first grid system for responsive layouts.
 * Definition classes for different heights, font sizes, and other size management tools.
 * Different responsive classes for Font sizing.
 * Diferent color classes for Backgrounds, fonts, buttons, labels, forms, and more.
